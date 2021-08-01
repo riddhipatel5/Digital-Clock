@@ -1,0 +1,20 @@
+.font{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+body{
+    background: black;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+.clock{
+    color: pink;
+    border:2px solid pink;
+    padding: 30px 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
